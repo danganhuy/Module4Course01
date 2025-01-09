@@ -8,5 +8,6 @@
     <h1><%= "Hello World!" %></h1>
     <h3><a href="greeting">Exercise 1</a></h3>
     <h3><a href="customers">Exercise 2</a></h3>
+    <h3><a href="currency_exchange">Exercise 3</a></h3>
 </body>
 </html>
